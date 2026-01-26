@@ -1,0 +1,16 @@
+{
+    "name": "nnptud-buoi1",
+    "version": "1.0.0",
+    "description": "Bài tập về Product objects trong Node.js",
+    "main": "src/baitap1.js",
+    "scripts": {
+        "start": "node src/baitap1.js"
+    },
+    "keywords": [
+        "nodejs",
+        "javascript",
+        "exercises"
+    ],
+    "author": "",
+    "license": "ISC"
+}
